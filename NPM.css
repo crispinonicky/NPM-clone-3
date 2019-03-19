@@ -1,0 +1,345 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600);
+
+body {
+    background-color: white;
+    margin: 0%;
+}
+
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 35px;
+    
+  }
+
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+
+  .top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+    position: relative;
+    bottom: 20px;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+ #signupSpan {
+   position: absolute;
+   top: 18px;
+   left: 1251px;
+   text-decoration: none;
+   color: white;
+ }
+
+  .header-top{
+    background-color: rgb(32, 101, 136);
+    position: relative;
+    color: rgba(255,255,255,0.8);
+     padding-top: 15px; 
+    width: 100%;
+  }
+
+ #logo{
+  height: 50px;
+  position: absolute;
+  top: 5px;
+  left: 10px;
+ }
+
+ #package {
+  background: rgb(31, 82, 111);
+width: 1060px;
+margin: 0 auto;
+line-height: 33px;
+position:absolute;
+top: 10px;
+left: 148px;
+border: 1px solid rgba(255,255,255,0.4);
+color: white;
+text-indent: 10px;
+font-size: 1em;
+ }
+
+ .search-bar-button {
+  position: absolute;
+  right: 13.5%;
+  top: 2.8%;
+  height: 37px;
+  width: 34px;
+  background-color: rgb(31,82,111);
+  color: rgba(255,255,255,0.7);
+  border: 1px solid rgba(255,255,255,0.4);
+  font-size: 1em;
+ }
+
+ .header-top{
+   display: inline-block;
+ }
+
+ #bearLogo{
+   position: absolute;
+   left: 1365px;
+   top: 10px;
+   height: 45px;
+ }
+
+ .amazing{
+   position: relative;
+   width: 100%;
+   background-color: rgb(32, 101, 136);
+   top: 105px;
+ }
+
+ #city{
+   height: 350px;
+   margin-top: -2px;
+ }
+
+ .container {
+  position: relative;
+  text-align: center;
+  color: white;
+  
+}
+
+#top-left{
+  height: 50px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.build{
+  position: absolute;
+  top: 25%;
+  left: 33%;
+  transform: translate(-50%, -50%);
+  font-family: Source Sans Pro;
+  font-weight: normal;
+}
+
+.firstParagraph{
+  position: absolute;
+  top: 43%;
+  left: 38%;
+  width: 30%;
+  transform: translate(-50%, -50%);
+  font-family: Source Sans Pro;
+  text-align: left;
+}
+
+.link-btn{
+  position: absolute;
+  top: 73%;
+  left: 30%;
+  width: 10%;
+  transform: translate(-50%, -50%);
+  display: block;
+  color: white;
+  border-radius: 20px;
+  background-color: rgb(240, 146, 51);
+  /* height: 35px; */
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  font-family: Source Sans Pro;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.section1{
+  position: relative;
+  /* border: 10px solid yellow; */
+  background-color: rgb(39, 53, 71);
+   margin-top: -24px;
+  height: 400px;
+  
+}
+
+#collabPic{
+  position: absolute;
+    /* width:px; */
+    height:250px;
+    left: 325px;
+    bottom: 90px;
+}
+
+#power{
+  color: white;
+  font-family: source sans pro;
+  font-weight: normal;
+  position: absolute;
+  left: 800px;
+  bottom: 230px;
+
+}
+
+#bulletins{
+  color: white;
+  font-family: source sans pro;
+  text-decoration: none;
+  /* list-style-type: none; */
+  position: absolute;
+  left: 800px;
+  bottom: 160px;
+}
+
+#secButton{
+  color: white;
+  font-family: source sans pro;
+  text-decoration: none;
+  /* list-style-type: none; */
+  position: absolute;
+  left: 840px;
+  bottom: 120px;
+  border-radius: 20px;
+  background-color: rgb(203, 56, 55);
+  padding: 10px 10px 10px 10px;
+}
+
+#learnMore{
+  color: white;
+  font-family: source sans pro;
+  text-decoration: none;
+  /* list-style-type: none; */
+  position: absolute;
+  left: 835px;
+  bottom: 95px;
+}
+
+#learnMore1{
+color: white;
+font-family: source sans pro;
+text-decoration: none;
+/* list-style-type: none; */
+position: absolute;
+left: 855px;
+bottom: 95px;
+}
+
+#forklift{
+  position: absolute;
+  /* width: 1424px;
+  height: 350px; */
+  
+}
+
+#whatIs {
+  position: absolute;
+  float: left;
+  color: white;
+  left: 25%;
+  bottom: 60%;
+  font-weight: normal;
+  font-family: Source Sans Pro;
+}
+
+#install{
+  position: absolute;
+  float: left;
+  color: white;
+  font-weight: normal;
+  left: 25%;
+  bottom: 43%;
+  font-family: Source Sans Pro;
+}
+
+#installBtn{
+
+  color: white;
+  font-family: source sans pro;
+  text-decoration: none;
+  /* list-style-type: none; */
+  position: absolute;
+  left: 25%;
+  bottom: 25%;
+  border-radius: 30px;
+  background-color: rgb(49, 68, 88);;
+  padding: 15px 30px 15px 30px;
+  color: white;
+}
+
+#buildingBlocks{
+  position: absolute;
+  color: rgb(83, 88, 98);
+  bottom: -375px;
+  left: 33%;
+}
+
+#fourthContainer{
+  background-color: white;
+}
+
+#lastPara{
+  position: absolute;
+  color: rgb(135, 145, 156);
+  bottom: -400px;
+  left: 25%;
+}
+
+#sec2{
+  background-image: url("./images/forklift.svg");
+  position: relative;
+  
+  height: 375px;
+}
+
+ #sec3 {
+   position: relative;
+}
+
+#sec3-1{
+  /* position: absolute; */
+  /* left: 25%; */
+  text-align: center;
+  margin-bottom: 3%;
+}
+
+#building{
+  color: rgb(83, 88, 98);
+}
+
+#regHos{
+  color: rgb(135, 145, 156);
+}
+
+.col {
+  float: left;
+}
+
+.col-3{
+  top: 10%;
+  width: 33%;
+  text-align: center;
+}
+
+.sec3-2{
+  position: relative;
+  margin: auto 0;
+
+}
+
+.sentence{
+  text-align: center;
+  color: rgb(135, 145, 156);
+}
+
+.redWord{
+  color: red;
+}
+
+.clearfix {
+  clear: both; 
+}
+
